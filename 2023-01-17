@@ -1,0 +1,23 @@
+First step, head to the Facebook Developer Dashboard and either create a new app or select an existing one: https://developers.facebook.com/apps
+
+Next, navigate to the App Review section and click on the "Start a Submission" button: https://developers.facebook.com/apps/[yourAppId]/dashboard/
+
+Don't accept all permissions. That is the main reason why request are rejected. Read until the end of te thread to receive more orientation about permissions
+
+Complete app settings. The mandatory ones are:
+
+- App icon (1024 x 1024)
+- Privacy Policy URL
+- Category
+
+To create the privacy policy:
+
+- Give a short description of your app to ChatGTP and ask it to write a detailed explanation. 
+- Save it and then 
+- Ask ChatGPT: "Write a privacy policy for an app with this description: [paste the detailed explanation here]"
+
+Select the [required actions] permission from the list and provide the detailed explanation you generated with ChatGTP.
+
+Submit the request and wait for review. #FacebookAPI #Permissions
+
+Like, follow and retweet and I will send you a guide about what Facebook permissions are necessary according to your project.
