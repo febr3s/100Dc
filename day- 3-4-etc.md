@@ -169,3 +169,19 @@ Segunda tanda por accidente guardada en Firefox. Hasta _Litigio_
 # 13 
 
 Finished the list of poem pages
+
+# 14
+
+Creating a python script to create the array from a simple list
+
+Not necessary, I had already done that.
+
+Hours trying to appending ../../src to the python scripts that were in the src folder, to execute them from the virtual environment, but the fact is tat such environment is activated regardless of where the command line is... therefore it wasn't necessary. But I learned a couple of things about PYTHONPATH, PATH, and PYTHONHOME that may be useful in the future.
+Also it was good to know that "modules" in Python are just scripts
+
+# 15
+
+Added genre: poetry to all the poetry pages found manually on the site.
+I have to run the line breaks scripts on them, and try how they look on a pre-csv table.
+Also have to open morel on visual studio code and find out what are all those commits. In two words: catching up with origin.
+
