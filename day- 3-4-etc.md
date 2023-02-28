@@ -61,7 +61,7 @@ I made it until the yml file. I don't understand this: "To schedule a workflow, 
 Today I am only going to list the immediate modifications necessary for MOREL to be at its MVP. Afterwards I might think of working on a new exciting feature such as maps
 
 - Filter out books without facsimilar cover from Index [done]
-- Make the whole book clickable
+- Make the whole book clickable [done]
 - Finish transition form md to csv
 - Integrate MOREL to Zotero
 - Integrate MOREL to archive.org
@@ -185,3 +185,6 @@ Added genre: poetry to all the poetry pages found manually on the site.
 I have to run the line breaks scripts on them, and try how they look on a pre-csv table.
 Also have to open morel on visual studio code and find out what are all those commits. In two words: catching up with origin.
 
+# 16
+
+Catched up with origin. Waiting deploy to confirm everything is ok.
