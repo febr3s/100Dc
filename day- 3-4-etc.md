@@ -188,3 +188,8 @@ Also have to open morel on visual studio code and find out what are all those co
 # 16
 
 Catched up with origin. Waiting deploy to confirm everything is ok.
+Para seguir con md to csv:
+
+- hay que cambiar en los poemas todo doble line break por un single line break antes de hacer el cambio por <br>
+- hay que correr el script por todos los textos porque los fragmentos con diálogo también se joden en la tabla
+- habría que ver cómo se almacenan las notas en zotero para emular en lo posible el mismo formato
