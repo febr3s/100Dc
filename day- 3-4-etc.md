@@ -199,3 +199,13 @@ Para seguir con md to csv:
 1. Abort. What I will do is to run the script once it is on a csv, working directly with the html tags.
 
 2. Listo para correr el script. Hay que mover de morelcoop.github... lo que está dentro de la carpeta _books y correr el script sobre ella para pasar a crear el csv
+
+# 18
+
+Se rompia la tabla. Después de mucho probar, limitando el número de books a 25 funciona. Tocará irlos pasando manualmente de 25 en 25.
+
+A menos que encuentre una forma de hacerlo con un script en los próximos 10 minutos.
+
+It is worth noting that today I learned about striping whitespace on Liquid https://shopify.github.io/liquid/basics/whitespace/
+
+Also, used the iteration tag parameter "limit". Tomorrow I will proably use "offset" https://shopify.dev/docs/api/liquid/tags/iteration-tags
