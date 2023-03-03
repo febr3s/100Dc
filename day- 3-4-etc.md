@@ -190,6 +190,12 @@ Also have to open morel on visual studio code and find out what are all those co
 Catched up with origin. Waiting deploy to confirm everything is ok.
 Para seguir con md to csv:
 
-- hay que cambiar en los poemas todo doble line break por un single line break antes de hacer el cambio por <br>
-- hay que correr el script por todos los textos porque los fragmentos con diálogo también se joden en la tabla
-- habría que ver cómo se almacenan las notas en zotero para emular en lo posible el mismo formato
+1 - hay que cambiar en los poemas todo doble line break por un single line break antes de hacer el cambio por <br>
+2 - hay que correr el script por todos los textos porque los fragmentos con diálogo también se joden en la tabla
+3 - habría que ver cómo se almacenan las notas en zotero para emular en lo posible el mismo formato
+
+# 17
+
+1. Abort. What I will do is to run the script once it is on a csv, working directly with the html tags.
+
+2. Listo para correr el script. Hay que mover de morelcoop.github... lo que está dentro de la carpeta _books y correr el script sobre ella para pasar a crear el csv
