@@ -209,3 +209,8 @@ A menos que encuentre una forma de hacerlo con un script en los próximos 10 min
 It is worth noting that today I learned about striping whitespace on Liquid https://shopify.github.io/liquid/basics/whitespace/
 
 Also, used the iteration tag parameter "limit". Tomorrow I will proably use "offset" https://shopify.dev/docs/api/liquid/tags/iteration-tags
+
+
+# 19
+
+Ya md-to-csv está listo para empezar a mover los datos. Quizá doble chequear que el formato sirva para movernos a Zotero sin mucho trauma. Para eso hay que traerse el disco duro a la cama. De hecho debería comenzar probando la transición a Zotero con los primeros 25. Y quizá de hecho podría ser mejor importar a Zotero de 25 en 25 y comenzar a trabajar con esa base de datos. Mosca que en las páginas de libro originales está el dato de la fecha de nacimiento del autor, que sería bueno recuperar. Aunque en este punto quizá mejor probar la integración con la API de Wikipedia. 
